@@ -1,4 +1,4 @@
- - OS Information: `Windows32\license.rtf `
- - Update Information: `Windows\WindowsUpdate.log`
- - Updates Downloaded: `SoftwareDistribution\Downloads`
+ - OS Information: `C:\Windows32\license.rtf `
+ - Update Information: `C:\Windows\WindowsUpdate.log`
+ - Updates Downloaded: `C:\Windows\SoftwareDistribution\Downloads`
  - Hosts Information: `C:\Windows\System32\drivers\etc\hosts`
